@@ -41,7 +41,7 @@ In this lab, we will create tickets as end users, observe their properties, and 
 #### Task 2: End-User Ticket Creation
 As an end-user, create the following ticket:
 - **Issue**: Entire mobile/online banking system is down  
-![image](https://github.com/user-attachments/assets/47710e23-7bd7-4a9e-994e-bc04e24e093a)
+![r1](https://github.com/user-attachments/assets/f566609f-7fbd-473d-95dd-0e94f9142df4)
 
 #### Task 3: Help Desk Agent View
 As a Help Desk Agent (John), observe the ticket’s properties:
@@ -49,20 +49,20 @@ As a Help Desk Agent (John), observe the ticket’s properties:
 - Department
 - SLA
 - Assigned To  
-![image](https://github.com/user-attachments/assets/6e803834-c5e5-4f7c-94fe-8848aea8119e)
+![r2](https://github.com/user-attachments/assets/7fde7ea4-0b60-43cc-8e9f-f523c8d8e9b2)
 
 #### Task 4: Set Ticket Properties
 - Set the ticket properties:
   - **Priority**: Sev-A (1 hour, 24/7)
   - **Department**: Online Banking  
-![image](https://github.com/user-attachments/assets/de7d3578-53d2-41b7-ac3e-6d3804b0a9c5)
+![r3](https://github.com/user-attachments/assets/7cae305c-5449-4cbc-b5e0-c9c7c071a111)
 
 #### Task 5: Ticket Observations
 Attempt to observe the ticket again as "John". Can you view or change the ticket?
 
 #### Task 6: Work the Ticket
 Work the ticket to completion as Jane:  
-![image](https://github.com/user-attachments/assets/5d0f379d-d90a-4420-958d-f9df5b66ac9c)
+![r4](https://github.com/user-attachments/assets/2cdd58f4-99ff-4452-b9d2-50e0b6f3d740)
 
 ---
 
@@ -83,11 +83,11 @@ As a Help Desk Agent (John), observe the ticket’s properties:
 - Set the ticket properties:
   - **Priority**: Sev-B (4 hours, 24/7)
   - **Department**: Support  
-![image](https://github.com/user-attachments/assets/c526e756-a485-43ca-9119-ce7e28a9679e)
+![r5](https://github.com/user-attachments/assets/ab21351f-d4b7-4298-b89a-dd0423faa834)
 
 #### Task 4: Work the Ticket
 Work the ticket to completion as John:  
-![image](https://github.com/user-attachments/assets/a7d69049-4242-45c5-acf7-1c3254961521)
+![r6](https://github.com/user-attachments/assets/d89b0d76-7da6-4f06-9683-ad95fd06c3f9)
 
 ---
 
@@ -111,7 +111,7 @@ As a Help Desk Agent (John), observe the ticket’s properties:
 
 #### Task 4: Work the Ticket
 Work the ticket to completion as John:  
-![image](https://github.com/user-attachments/assets/a7d69049-4242-45c5-acf7-1c3254961521)
+![r7](https://github.com/user-attachments/assets/eb7d543f-12e8-47f3-9dcf-02be72284a6c)
 
 ---
 
